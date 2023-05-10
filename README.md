@@ -4,7 +4,7 @@ This contains my latest portfolio
 
 ## Deployment
 
-https://shelcia-portfolio.netlify.app/
+
 
 
 ### To Use this repo for development 
