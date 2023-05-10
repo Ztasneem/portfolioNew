@@ -11,7 +11,6 @@ const Loadable = (Component) => (props) =>
 const HomePage = Loadable(lazy(() => import("./pages/HomePage")));
 const ProjectPage = Loadable(lazy(() => import("./pages/ProjectPage")));
 const AboutPage = Loadable(lazy(() => import("./pages/AboutPage")));
-const ContactPage = Loadable(lazy(() => import("./pages/Resume")));
 const ErrorPage = Loadable(lazy(() => import("./pages/404Page")));
 
 const routes = [
@@ -22,10 +21,6 @@ const routes = [
   {
     path: "about",
     element: <AboutPage />,
-  },
-  {
-    path: "contact",
-    element: <ContactPage />,
   },
   {
     path: "project/:id",
