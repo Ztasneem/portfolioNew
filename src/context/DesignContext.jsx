@@ -1,13 +1,5 @@
 export const designs = {
   status: "ok",
-  // feed: {
-  //   url: "https://www.behance.net/feeds/user?username=shelcia",
-  //   title: "SHELCIA DAVID",
-  //   link: "http://www.behance.net/shelcia",
-  //   author: "",
-  //   description: "SHELCIA DAVID Personal RSS Feed",
-  //   image: "",
-  // },
   items: [
     {
       title: "TrMIS",
