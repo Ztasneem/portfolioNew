@@ -1,6 +1,7 @@
 import React from "react";
 import { socialMediaIcons } from "../../context/SocialMediaContext";
 import GlowText from "../../partials/GlowText";
+import Tasneem from "../../assets/tasneemah.svg";
 
 const Intro = () => {
   return (
@@ -66,7 +67,12 @@ const Intro = () => {
                   See My works!
                 </button>
               </a>
+              <img className="mt-5"
+                  src={Tasneem} 
+                  alt="avatar"
+                />
             </div>
+
           </div>
         </div>
       </header>
