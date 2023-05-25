@@ -12,7 +12,7 @@ const Experience = () => {
             <div className="container" >
               <div className="row" >
                 <div className="mt-3 d-flex justify-content-center flex-wrap">
-                  <a href="https://drive.google.com/file/d/1YdWHhBj04FNkfrY_fr6ePXTttQ2CCqBG/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                  <a href="https://drive.google.com/file/d/1hHoOkl2wdiFsdlwrG3ztT06Z9RHSQ161/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                     <button className="button" href={pdf} >
                       Download CV <i className="fas fa-download"></i>
                     </button>
@@ -101,7 +101,7 @@ Localization in Wireless Sensor Networks [MATLAB]"
               </div>
               <div className="row" >
                 <div className="mt-3 d-flex justify-content-center flex-wrap">
-                  <a href="https://drive.google.com/file/d/1Yxkn2zuma1IdWMfTJLTnS_YTCa-9Aov1/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                  <a href="https://drive.google.com/file/d/1hHoOkl2wdiFsdlwrG3ztT06Z9RHSQ161/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                     <button className="button" href={pdf}>
                       Download CV <i className="fas fa-download"></i>
                     </button>
